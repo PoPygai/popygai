@@ -1,5 +1,5 @@
  
-[![Header](https://github.com/PoPygai/popygai/blob/main/assets/DAVID_R_1000x562.jpg)]
+![Header](https://github.com/PoPygai/popygai/blob/main/assets/DAVID_R_1000x562.jpg)
 
 ## About me : I'm beginner Full Stake Developer
 
