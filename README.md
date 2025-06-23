@@ -17,3 +17,4 @@
 ## Follow Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/user_nn_123)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](https://mailto:davidrashkovskiy@gmail.com)
