@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
+![](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=next)
 
 
 ## Follow Me
