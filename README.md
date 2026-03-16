@@ -14,6 +14,9 @@
 ![](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
 ![](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next)
+![](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+
 
 
 ## Follow Me
