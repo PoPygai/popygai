@@ -1,7 +1,7 @@
  
 ![Header](https://github.com/PoPygai/popygai/blob/main/assets/DAVID_R_1000x562.jpg)
 
-## About me : I'm beginner Full Stake Developer
+## About me : I'm Full Stake Developer
 
 ## Languages and Tools : 
 ![](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
